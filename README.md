@@ -1,6 +1,6 @@
 # PHP Helpers
 
--   Version: v1.0.0
+-   Version: v1.0.1
 -   Date: May 05 2019
 -   [Release notes](https://github.com/pointybeard/helpers/blob/master/CHANGELOG.md)
 -   [GitHub repository](https://github.com/pointybeard/helpers)
@@ -23,7 +23,7 @@ See individual packages for their usage instructions. Packages included in this 
 -   [PHP Helpers: Command-line Progress Bar](https://github.com/pointybeard/helpers-cli-progressbar) (`pointybeard/helpers-cli-progressbar`)
 -   [PHP Helpers: Command-line Colours](https://github.com/pointybeard/helpers-cli-colour) (`pointybeard/helpers-cli-colour`)
 -   [PHP Helpers: Sliding Average](https://github.com/pointybeard/helpers-statistics-slidingaverage) (`pointybeard/helpers-statistics-slidingaverage`)
--   [PHP Helpers: Time Functions](https://github.com/pointybeard/helpers-time-functions) (`pointybeard/helpers-time-functions`)
+-   [PHP Helpers: Time Functions](https://github.com/pointybeard/helpers-functions-time) (`pointybeard/helpers-functions-time`)
 
 ## Support
 
