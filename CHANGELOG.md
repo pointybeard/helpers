@@ -5,6 +5,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 **View all [Unreleased][] changes here**
 
+## [1.0.5][]
+#### Added
+-   Added package `pointybeard/helpers-functions-arrays`
+
 ## [1.0.4][]
 #### Added
 -   Added package `pointybeard/helper-functions-strings`
@@ -25,7 +29,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 #### Added
 -   Initial release
 
-[Unreleased]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.0.4...integration
+[Unreleased]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.0.5...integration
+[1.0.5]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.0.4...1.0.5
 [1.0.4]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.0.3...1.0.4
 [1.0.3]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.0.2...1.0.3
 [1.0.2]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.0.1...1.0.2

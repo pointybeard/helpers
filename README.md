@@ -1,7 +1,7 @@
 # PHP Helpers
 
--   Version: v1.0.4
--   Date: May 08 2019
+-   Version: v1.0.5
+-   Date: May 11 2019
 -   [Release notes](https://github.com/pointybeard/helpers/blob/master/CHANGELOG.md)
 -   [GitHub repository](https://github.com/pointybeard/helpers)
 
@@ -27,6 +27,7 @@ See individual packages for their usage instructions. Packages included in this 
 -   [PHP Helpers: Flag Functions](https://github.com/pointybeard/helpers-functions-flags) (`pointybeard/helpers-functions-flags`)
 -   [PHP Helpers: Command-line Functions](https://github.com/pointybeard/helpers-functions-cli) (`pointybeard/helpers-functions-cli`)
 -   [PHP Helpers: String Functions](https://github.com/pointybeard/helpers-functions-strings) (`pointybeard/helpers-functions-strings`)
+-   [PHP Helpers: Array Functions](https://github.com/pointybeard/helpers-functions-arrays) (`pointybeard/helpers-functions-arrays`)
 
 ## Support
 
