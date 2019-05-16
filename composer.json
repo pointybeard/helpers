@@ -1,6 +1,6 @@
 {
     "name": "pointybeard/helpers",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "A meta package containing helpful classes and functions for use in PHP.",
     "homepage": "https://github.com/pointybeard/helpers",
     "license": "MIT",
@@ -16,6 +16,8 @@
         "php": ">=5.6.6",
         "pointybeard/helpers-cli-progressbar": "~1.0",
         "pointybeard/helpers-cli-colour": "~1.0",
+        "pointybeard/helpers-cli-message": "~1.0",
+        "pointybeard/helpers-cli-prompt": "~1.0",
         "pointybeard/helpers-statistics-slidingaverage": "~1.0",
         "pointybeard/helpers-functions-time": "~1.0",
         "pointybeard/helpers-functions-flags": "~1.0",
