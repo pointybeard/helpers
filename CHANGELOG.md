@@ -5,9 +5,17 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 **View all [Unreleased][] changes here**
 
+## [1.1.1][]
+#### Added
+-   Added package `pointybeard/helpers-cli-input`
+
+#### Changed
+-   Using v1.1+ of `pointybeard/helpers-functions-cli`
+
 ## [1.1.0][]
 #### Added
 -   Added package `pointybeard/helpers-foundation-factory`
+
 #### Changed
 - Requring PHP 7.2 or greater
 

@@ -1,6 +1,6 @@
 # PHP Helpers
 
--   Version: v1.1.0
+-   Version: v1.1.1
 -   Date: May 20 2019
 -   [Release notes](https://github.com/pointybeard/helpers/blob/master/CHANGELOG.md)
 -   [GitHub repository](https://github.com/pointybeard/helpers)
@@ -24,6 +24,7 @@ See individual packages for their usage instructions. Packages included in this 
 -   [PHP Helpers: Command-line Colours](https://github.com/pointybeard/helpers-cli-colour) (`pointybeard/helpers-cli-colour`)
 -   [PHP Helpers: Command-line Prompt for Input](https://github.com/pointybeard/helpers-cli-prompt) (`pointybeard/helpers-cli-prompt`)
 -   [PHP Helpers: Command-line Message](https://github.com/pointybeard/helpers-cli-message) (`pointybeard/helpers-cli-message`)
+-   [PHP Helpers: Command-line Input and Input Type Handlers](https://github.com/pointybeard/helpers-cli-input) (`pointybeard/helpers-cli-input`)
 -   [PHP Helpers: Sliding Average](https://github.com/pointybeard/helpers-statistics-slidingaverage) (`pointybeard/helpers-statistics-slidingaverage`)
 -   [PHP Helpers: Time Functions](https://github.com/pointybeard/helpers-functions-time) (`pointybeard/helpers-functions-time`)
 -   [PHP Helpers: Flag Functions](https://github.com/pointybeard/helpers-functions-flags) (`pointybeard/helpers-functions-flags`)
