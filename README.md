@@ -1,7 +1,7 @@
 # PHP Helpers
 
--   Version: v1.0.6
--   Date: May 16 2019
+-   Version: v1.0.7
+-   Date: May 20 2019
 -   [Release notes](https://github.com/pointybeard/helpers/blob/master/CHANGELOG.md)
 -   [GitHub repository](https://github.com/pointybeard/helpers)
 
@@ -30,6 +30,7 @@ See individual packages for their usage instructions. Packages included in this 
 -   [PHP Helpers: Command-line Functions](https://github.com/pointybeard/helpers-functions-cli) (`pointybeard/helpers-functions-cli`)
 -   [PHP Helpers: String Functions](https://github.com/pointybeard/helpers-functions-strings) (`pointybeard/helpers-functions-strings`)
 -   [PHP Helpers: Array Functions](https://github.com/pointybeard/helpers-functions-arrays) (`pointybeard/helpers-functions-arrays`)
+-   [PHP Helpers: Path Functions](https://github.com/pointybeard/helpers-functions-paths) (`pointybeard/helpers-functions-paths`)
 
 ## Support
 
