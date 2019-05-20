@@ -1,7 +1,7 @@
 # PHP Helpers
 
--   Version: v1.0.8
--   Date: May 30 2019
+-   Version: v1.1.0
+-   Date: May 20 2019
 -   [Release notes](https://github.com/pointybeard/helpers/blob/master/CHANGELOG.md)
 -   [GitHub repository](https://github.com/pointybeard/helpers)
 
@@ -9,7 +9,7 @@ A meta package containing helpful classes and functions for use in PHP.
 
 ## Installation
 
-This library is installed via [Composer](http://getcomposer.org/). To install, use `composer require pointybeard/helpers` or add `"pointybeard/helpers": "~1.0"` to your `composer.json` file.
+This library is installed via [Composer](http://getcomposer.org/). To install, use `composer require pointybeard/helpers` or add `"pointybeard/helpers": "~1.1"` to your `composer.json` file.
 
 And run composer to update your dependencies:
 
@@ -31,6 +31,7 @@ See individual packages for their usage instructions. Packages included in this 
 -   [PHP Helpers: String Functions](https://github.com/pointybeard/helpers-functions-strings) (`pointybeard/helpers-functions-strings`)
 -   [PHP Helpers: Array Functions](https://github.com/pointybeard/helpers-functions-arrays) (`pointybeard/helpers-functions-arrays`)
 -   [PHP Helpers: Path Functions](https://github.com/pointybeard/helpers-functions-paths) (`pointybeard/helpers-functions-paths`)
+-   [PHP Helpers: Factory Foundation Classes](https://github.com/pointybeard/helpers-foundation-factory) (`pointybeard/helpers-foundation-factory`)
 
 ## Support
 

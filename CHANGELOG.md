@@ -5,6 +5,12 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 **View all [Unreleased][] changes here**
 
+## [1.1.0][]
+#### Added
+-   Added package `pointybeard/helpers-foundation-factory`
+#### Changed
+- Requring PHP 7.2 or greater
+
 ## [1.0.8][]
 #### Changed
 -   Updated version constraints in composer.json to be more restrictive and ensure PHP 5.6.x compatiblity is maintained
@@ -41,7 +47,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 #### Added
 -   Initial release
 
-[Unreleased]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.0.8...integration
+[Unreleased]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.1.0...integration
+[1.1.0]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.0.7...1.1.0
 [1.0.8]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.0.7...1.0.8
 [1.0.7]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.0.6...1.0.7
 [1.0.6]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.0.5...1.0.6
