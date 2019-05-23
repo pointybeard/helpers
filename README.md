@@ -1,7 +1,7 @@
 # PHP Helpers
 
--   Version: v1.1.1
--   Date: May 20 2019
+-   Version: v1.1.2
+-   Date: May 23 2019
 -   [Release notes](https://github.com/pointybeard/helpers/blob/master/CHANGELOG.md)
 -   [GitHub repository](https://github.com/pointybeard/helpers)
 
@@ -9,7 +9,7 @@ A meta package containing helpful classes and functions for use in PHP.
 
 ## Installation
 
-This library is installed via [Composer](http://getcomposer.org/). To install, use `composer require pointybeard/helpers` or add `"pointybeard/helpers": "~1.1"` to your `composer.json` file.
+This library is installed via [Composer](http://getcomposer.org/). To install, use `composer require pointybeard/helpers` or add `"pointybeard/helpers": "^1"` to your `composer.json` file.
 
 And run composer to update your dependencies:
 
