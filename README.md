@@ -1,7 +1,7 @@
 # PHP Helpers
 
--   Version: v1.1.2
--   Date: May 23 2019
+-   Version: v1.1.3
+-   Date: May 24 2019
 -   [Release notes](https://github.com/pointybeard/helpers/blob/master/CHANGELOG.md)
 -   [GitHub repository](https://github.com/pointybeard/helpers)
 
@@ -33,7 +33,8 @@ See individual packages for their usage instructions. Packages included in this 
 -   [PHP Helpers: Array Functions](https://github.com/pointybeard/helpers-functions-arrays) (`pointybeard/helpers-functions-arrays`)
 -   [PHP Helpers: Path Functions](https://github.com/pointybeard/helpers-functions-paths) (`pointybeard/helpers-functions-paths`)
 -   [PHP Helpers: Factory Foundation Classes](https://github.com/pointybeard/helpers-foundation-factory) (`pointybeard/helpers-foundation-factory`)
-
+-   [PHP Helpers: Readable Trace Exception](https://github.com/pointybeard/helpers-exceptions-readabletrace) (`pointybeard/helpers-exceptions-readabletrace`)
+-
 ## Support
 
 If you believe you have found a bug, please report it using the [GitHub issue tracker](https://github.com/pointybeard/helpers/issues),

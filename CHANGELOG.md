@@ -5,6 +5,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 **View all [Unreleased][] changes here**
 
+## [1.1.3][]
+#### Added
+-   Added package `pointybeard/helpers-exceptions-readabletrace`
+
 ## [1.1.2][]
 #### Changed
 -   Updated composer version constraint to ^1 of all helper classes. This avoids having to update this meta package for 1.x version changes
@@ -59,7 +63,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 #### Added
 -   Initial release
 
-[Unreleased]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.1.2...integration
+[Unreleased]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.1.3...integration
+[1.1.3]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.1.2...1.1.3
 [1.1.2]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.1.1...1.1.2
 [1.1.1]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.1.0...1.1.1
 [1.1.0]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.0.7...1.1.0
