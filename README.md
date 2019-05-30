@@ -1,7 +1,7 @@
 # PHP Helpers
 
--   Version: v1.0.7
--   Date: May 20 2019
+-   Version: v1.0.8
+-   Date: May 30 2019
 -   [Release notes](https://github.com/pointybeard/helpers/blob/master/CHANGELOG.md)
 -   [GitHub repository](https://github.com/pointybeard/helpers)
 
