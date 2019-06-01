@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.2.0][]
+#### Changed
+-   Using v1.2.x of `pointybeard/helpers-cli-input`
+
 ## [1.1.5][]
 #### Changed
 -   Reorganised package list in composer.json
@@ -73,6 +77,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 #### Added
 -   Initial release
 
+[1.2.0]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.1.5...1.2.0
 [1.1.5]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.1.4...1.1.5
 [1.1.4]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.1.3...1.1.4
 [1.1.3]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.1.2...1.1.3
