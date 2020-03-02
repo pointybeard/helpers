@@ -20,6 +20,7 @@
         "pointybeard/helpers-cli-prompt": "^1.0",
         "pointybeard/helpers-exceptions-readabletrace": "^1.0",
         "pointybeard/helpers-foundation-factory": "^1.0",
+        "pointybeard/helpers-foundation-bnl": "^1.0",
         "pointybeard/helpers-functions-arrays": "^1.0",
         "pointybeard/helpers-functions-cli": "^1.1.0",
         "pointybeard/helpers-functions-debug": "^1.0",
