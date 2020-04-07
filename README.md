@@ -1,7 +1,7 @@
 # PHP Helpers
 
--   Version: v1.2.2
--   Date: March 02 2020
+-   Version: v1.2.3
+-   Date: April 07 2020
 -   [Release notes](https://github.com/pointybeard/helpers/blob/master/CHANGELOG.md)
 -   [GitHub repository](https://github.com/pointybeard/helpers)
 
@@ -37,6 +37,7 @@ See individual packages for their usage instructions. Packages included in this 
 -   [PHP Helpers: Factory Foundation Classes](https://github.com/pointybeard/helpers-foundation-factory) (`pointybeard/helpers-foundation-factory`)
 -   [PHP Helpers: Readable Trace Exception](https://github.com/pointybeard/helpers-exceptions-readabletrace) (`pointybeard/helpers-exceptions-readabletrace`)
 -   [PHP Helpers: Broadcast & Listen Foundation Classes](https://github.com/pointybeard/helpers-foundation-bnl) (`pointybeard/helpers-foundation-bnl`)
+-   [PHP Helpers: File Functions](https://github.com/pointybeard/helpers-functions-files) (`pointybeard/helpers-functions-files`)
 
 ## Support
 
