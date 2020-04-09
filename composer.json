@@ -30,7 +30,8 @@
         "pointybeard/helpers-functions-strings": "^1.1.0",
         "pointybeard/helpers-functions-time": "^1.0",
         "pointybeard/helpers-statistics-slidingaverage": "^1.0",
-        "pointybeard/helpers-functions-files": "^1.0"
+        "pointybeard/helpers-functions-files": "^1.0",
+        "pointybeard/helpers-functions-numbers": "^1.0"
     },
     "support": {
         "issues": "https://github.com/pointybeard/helpers/issues",
