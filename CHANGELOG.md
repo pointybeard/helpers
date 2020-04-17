@@ -3,6 +3,11 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.2.5][]
+#### Changed
+-   Using v1.1.x of `pointybeard/helpers-functions-time`
+-   Removed link to wiki in `composer.json` since doesn't exist.
+
 ## [1.2.4][]
 #### Added
 -   Added package `pointybeard/helpers-functions-numbers`
@@ -101,6 +106,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 #### Added
 -   Initial release
 
+[1.2.5]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.2.4...1.2.5
 [1.2.4]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.2.3...1.2.4
 [1.2.3]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.2.2...1.2.3
 [1.2.2]: https://github.com/pointybeard/helpers-cli-progressbar/compare/1.2.1...1.2.2
