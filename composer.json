@@ -26,7 +26,7 @@
         "pointybeard/helpers-functions-debug": "^1.0",
         "pointybeard/helpers-functions-flags": "^1.0",
         "pointybeard/helpers-functions-json": "^1.0",
-        "pointybeard/helpers-functions-paths": "^1.0",
+        "pointybeard/helpers-functions-paths": "^1.1.0",
         "pointybeard/helpers-functions-strings": "^1.1.0",
         "pointybeard/helpers-functions-time": "^1.1",
         "pointybeard/helpers-statistics-slidingaverage": "^1.0",
