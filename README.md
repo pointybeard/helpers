@@ -1,10 +1,5 @@
 # PHP Helpers
 
--   Version: v1.2.5
--   Date: April 17 2020
--   [Release notes](https://github.com/pointybeard/helpers/blob/master/CHANGELOG.md)
--   [GitHub repository](https://github.com/pointybeard/helpers)
-
 A meta package containing helpful classes and functions for use in PHP.
 
 ## Installation
@@ -49,6 +44,12 @@ or better yet, fork the library and submit a pull request.
 
 We encourage you to contribute to this project. Please check out the [Contributing documentation](https://github.com/pointybeard/helpers/blob/master/CONTRIBUTING.md) for guidelines about how to get involved.
 
+## Author
+-   Alannah Kearney - https://github.com/pointybeard
+-   See also the list of [contributors][ext-contributor] who participated in this project
+
 ## License
 
 "PHP Helpers" is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+
+[ext-contributor]: https://github.com/pointybeard/helpers/contributors
